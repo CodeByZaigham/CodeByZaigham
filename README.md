@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://codebyzaigham.netlify.app/](https://codebyzaigham.netlify.app/)
 
-- 💬 Ask me about **html, css, javascript, reactjs, gsap, c++, oops, python, SQL, nextjs**
+- 💬 Ask me about **html, css, javascript, reactjs, gsap, c++, oops, python, SQL, nextjs, pandas, numpy, matplotlib, seaborn, scikit-learn, fastapi, pydantic, streamlit**
 
-- 📫 How to reach me **zaigham.shah2004@gmail.com**
+- 📫 How to reach me **sp24bscs0026@maju.edu.pk**
 
 - 📄 Know about my experiences [https://codebyzaigham.netlify.app/](https://codebyzaigham.netlify.app/)
 
